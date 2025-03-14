@@ -1,0 +1,320 @@
+# Translation of Plugins - Transporters.io - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Transporters.io - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-17 10:13+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"Language: de_DE\n"
+"Project-Id-Version: Plugins - Transporters.io - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: includes/class-quoteform-setting.php:17
+msgid "This plugin allows you to style and place up to 3 Transporters quote forms on your website"
+msgstr "Dieses Plugin erlaubt es Ihnen, 3 unterschiedlich gestaltete Transporters.io Formulate in Ihre WebSeite zu integrieren"
+
+#: includes/class-quoteform-setting.php:16
+msgid "Welcome to the Transporters.io Wordpress Plugin"
+msgstr "Willkommen zum Transporters.io Wordpress Plugin"
+
+#: includes/class-quoteform-setting.php:14
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/class-quoteform-setting.php:8
+#: includes/class-quoteform-setting.php:23
+msgid "Setting"
+msgstr "Einstellungen"
+
+#: includes/class-quoteform-setting.php:7
+#: includes/class-quoteform-setting.php:22
+msgid "Quote Form 3"
+msgstr "Anfrage Formular 3"
+
+#: includes/class-quoteform-setting.php:6
+#: includes/class-quoteform-setting.php:21
+msgid "Quote Form 2"
+msgstr "Anfrage Formular 2"
+
+#: includes/class-quoteform-setting.php:5
+#: includes/class-quoteform-setting.php:20
+msgid "Quote Form 1"
+msgstr "Anfrage Formular 1"
+
+#: includes/class-quoteform-common.php:116
+msgid "One way"
+msgstr "Einfache Strecke"
+
+#: includes/class-quoteform-common.php:116
+msgid "Return"
+msgstr "Zurück"
+
+#: includes/class-quoteform-common.php:116
+msgid "Charter"
+msgstr "Miete"
+
+#: includes/class-quoteform-common.php:289
+#: includes/class-quoteform-common.php:439
+msgid "Day"
+msgstr "Tag"
+
+#: includes/class-quoteform-common.php:286
+#: includes/class-quoteform-common.php:436
+msgid "Hour"
+msgstr "Stunde"
+
+#: includes/class-quoteform-common.php:56
+msgid "Loading available vehicles"
+msgstr "Lade verfügbare Fahrzeuge"
+
+#: includes/class-quoteform-setting.php:704
+msgid "Check Maps Billing"
+msgstr "Prüfe Google Maps Zahlungseinstellung"
+
+#: includes/class-quoteform-setting.php:702
+msgid "More Info On Google Maps"
+msgstr "Mehr Informationen auf Google Maps"
+
+#: includes/class-quoteform-common.php:278
+#: includes/class-quoteform-common.php:432
+msgid "Charter Hours"
+msgstr "Miete Stunden"
+
+#: includes/class-quoteform-common.php:284
+#: includes/class-quoteform-common.php:434
+msgid "Select Charter Duration"
+msgstr "Wähle den Mietzeitraum"
+
+#: includes/class-quoteform-setting.php:482
+msgid "3 Step Multi Quote Form"
+msgstr "3-stufiges Universal-Anfrageformular"
+
+#: includes/class-quoteform-setting.php:475
+msgid "Standard 2 Step Form"
+msgstr "Standard 2-stufiges Anfrageformular"
+
+#: includes/class-quoteform-setting.php:471
+msgid "Display Mode"
+msgstr "Anzeigemodus"
+
+#: includes/class-quoteform-setting.php:427
+msgid "Use Vehicle Groups not Vehicle Types"
+msgstr "Fahrzeuggruppen statt Fahrzeugtypen verwenden"
+
+#: includes/class-quoteform-setting.php:142
+msgid "This plugin allows you to style and place up to 3 <a href=\"https://transporters.io/wordpress/\">Transporters quote forms</a> on your website"
+msgstr "Dieses Plugin erlaubt es bis zu 3 unterschiedlich gestaltete <a href=\"https://transporters.io/wordpress/\">Transport-Anfrageformulare</a>auf Ihrer WebSeite zu platzieren"
+
+#: includes/class-quoteform-setting.php:436
+msgid "Show Notes"
+msgstr "Zeige Anmerkungen"
+
+#: includes/class-quoteform-setting.php:701
+msgid "Transporters.io relies on Google maps - you need to enter your free API key in the box below."
+msgstr "Transporters.io arbeitet mit Google Maps. Sie müssen Ihren kostenfreien API Schlüssel in die Box unten eintragen."
+
+#: includes/class-quoteform-setting.php:418
+msgid "Fixed locations"
+msgstr "Feste Standorte"
+
+#: includes/class-quoteform-common.php:213
+#: includes/class-quoteform-common.php:227
+#: includes/class-quoteform-common.php:335
+#: includes/class-quoteform-common.php:356
+msgid "Select a location"
+msgstr "Wählen Sie einen Standort"
+
+#: includes/quoteform_scripts_front.php:924
+#: includes/quoteform_scripts_front.php:925
+#: includes/quoteform_scripts_front.php:926
+#: includes/quoteform_scripts_front.php:927
+#: includes/quoteform_scripts_front.php:1559
+#: includes/quoteform_scripts_front.php:1560
+#: includes/quoteform_scripts_front.php:1561
+#: includes/quoteform_scripts_front.php:1562
+#: includes/quoteform_scripts_front.php:1563
+#: includes/quoteform_scripts_front.php:1564
+#: includes/quoteform_scripts_front.php:1565
+#: includes/quoteform_scripts_front.php:1566
+msgid "This field is required."
+msgstr "Das ist ein Pflichtfeld."
+
+#. Plugin Name of the plugin
+msgid "Transporters.io - Booking and business management solution"
+msgstr "Transporters.io - Buchungs- und Business Management System"
+
+#: includes/quoteform_scripts_front.php:1939
+msgid "Please select other vehicle type"
+msgstr "Bitte einen anderen Fahrzeugtyp wählen"
+
+#: includes/quoteform_scripts_front.php:1599
+msgid "Your return time is the same as outbound time. Please change your return time or unselect the return journey."
+msgstr "Der Beginn der Rückfahrt ist gleich der Abholzeit. Bitte den Zeitpunkt der Rückfahrt ändern oder die Rückfahrt abwählen"
+
+#: includes/quoteform_scripts_front.php:1408
+msgid "Select journey type"
+msgstr "Auswahl des Fahrten-Typs"
+
+#: includes/quoteform_scripts_front.php:465
+#: includes/quoteform_scripts_front.php:1391
+msgid "Select vehicle type"
+msgstr "Auswahl Fahrzeugtyp"
+
+#: includes/class-quoteform-common.php:450
+msgid "Vehicle Type"
+msgstr "Fahrzeugtyp"
+
+#. Description of the plugin
+msgid "Transporters quote form"
+msgstr "Transportanfrage Formular"
+
+#: includes/class-quoteform-widget.php:44
+msgid "Select Quote Form :"
+msgstr "Auswahl Anfrageformular:"
+
+#: includes/class-quoteform-widget.php:8 includes/class-quoteform-widget.php:9
+msgid "Transporters Quote Form"
+msgstr "Transporters Angebotsformular"
+
+#: includes/class-quoteform-common.php:526
+msgid "Please input URL Site."
+msgstr "Bitte WebSeite - URL eingeben."
+
+#: includes/class-quoteform-common.php:519
+msgid "Thank you for your request for a quote."
+msgstr "Vielen Dank für Ihre Anfrage."
+
+#: includes/class-quoteform-common.php:308
+#: includes/class-quoteform-common.php:503
+msgid "Get Quote"
+msgstr "Angebot abrufen"
+
+#: includes/class-quoteform-common.php:497
+msgid "Back"
+msgstr "Zurück"
+
+#: includes/class-quoteform-common.php:478
+msgid "Mobile number"
+msgstr "Mobilfunkrufnummer"
+
+#: includes/class-quoteform-common.php:474
+msgid "Contact email"
+msgstr "Kontakt E-Mail"
+
+#: includes/class-quoteform-common.php:470
+msgid "Contact name"
+msgstr "Kontakt Name"
+
+#: includes/class-quoteform-common.php:466
+msgid "Booking details"
+msgstr "Buchungsdetails"
+
+#: includes/class-quoteform-common.php:300
+#: includes/class-quoteform-common.php:458
+msgid "Journey Type"
+msgstr "Art der Fahrt"
+
+#: includes/class-quoteform-common.php:259
+#: includes/class-quoteform-common.php:411
+msgid "Return date & time"
+msgstr "Rückfahrt datum und Uhrzeit"
+
+#: includes/class-quoteform-common.php:403
+msgid "Return journey needed?"
+msgstr "Rückfahrt benötigt?"
+
+#: includes/class-quoteform-common.php:352
+msgid "Confirm destination"
+msgstr "Fahrziel bestätigen"
+
+#: includes/class-quoteform-common.php:331
+msgid "Confirm start location"
+msgstr "Startadresse bestätigen"
+
+#: includes/class-quoteform-common.php:240
+#: includes/class-quoteform-common.php:379
+msgid "Pickup date & time"
+msgstr "Abholung Datum und Uhrzeit"
+
+#: includes/class-quoteform-common.php:224
+msgid "Destination"
+msgstr "Fahrziel"
+
+#: includes/class-quoteform-common.php:217
+#: includes/class-quoteform-common.php:231
+msgid "Enter a location"
+msgstr "Einen Standort eingeben"
+
+#: includes/class-quoteform-common.php:210
+msgid "Start location"
+msgstr "Startadresse"
+
+#: includes/class-quoteform-common.php:174
+msgid "Get a Quote"
+msgstr "Angebot erhalten"
+
+#: includes/class-quoteform-setting.php:716
+msgid "Update Setting"
+msgstr "Einstellungen aktualisieren"
+
+#: includes/class-quoteform-setting.php:711
+msgid "Google Map API Key"
+msgstr "Google Maps API Schlüssel"
+
+#: includes/class-quoteform-setting.php:703
+msgid "Get Google map API Key"
+msgstr "Google Maps API Schlüssel holen"
+
+#: includes/class-quoteform-setting.php:487
+msgid "Update Quote Form"
+msgstr "Angebotsformular aktualisieren"
+
+#: includes/class-quoteform-setting.php:446
+msgid "Multiple company profiles is a Transporters Pro feature. If you want to assign this quote form to a profile enter its ID number in the box below."
+msgstr "Multiple Firmenprofile ist eine Transporters Pro Funktion. Wenn Sie dieses Angebotsformular einem Firmenprofil zuordnen möchten, geben Sie dessen ID Nummer unten ein."
+
+#: includes/class-quoteform-setting.php:605
+msgid "Custom JS"
+msgstr "Benutzerdefiniertes JS"
+
+#: includes/class-quoteform-setting.php:596
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: includes/class-quoteform-setting.php:586
+msgid "Custom JS (after back)"
+msgstr "Benutzerdefiniertes JS (nach zurück)"
+
+#: includes/class-quoteform-setting.php:577
+msgid "Custom JS (after stage 2)"
+msgstr "Benutzerdefiniertes JS (nach Phase 2)"
+
+#: includes/class-quoteform-setting.php:568
+msgid "Custom JS (after stage 1)"
+msgstr "Benutzerdefiniertes JS (nach Phase 1)"
+
+#: includes/class-quoteform-setting.php:409
+msgid "Default to return journey"
+msgstr "Standaedmäßig mit Rückfahrt"
+
+#: includes/class-quoteform-setting.php:396
+#: includes/class-quoteform-setting.php:711
+msgid "required"
+msgstr "benötigt"
+
+#: includes/class-quoteform-setting.php:393
+msgid "Short code"
+msgstr "Short-Code"
+
+#: includes/class-quoteform-setting.php:144
+msgid "For support please visit"
+msgstr "Für Support bitte besuchen"
+
+#: includes/class-quoteform-setting.php:143
+msgid "Simply enter your details on the quote form pages and then insert as either a widget or shortcode."
+msgstr "Geben Sie einfach Ihre Daten auf den Seiten des Angebotsformulars ein und fügen Sie diese entweder als Widget oder als Short-Code ein."

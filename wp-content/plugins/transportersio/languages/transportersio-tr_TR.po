@@ -1,0 +1,358 @@
+# Translation of Plugins - Transporters.io - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - Transporters.io - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-19 18:51+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Language: tr_TR\n"
+"Project-Id-Version: Plugins - Transporters.io - Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+
+#: includes/class-quoteform-widget.php:260
+msgid "Thank you for requesting a quote"
+msgstr "Yolculuk yapma teklifiniz için teşekkür ederiz."
+
+
+#. Author URI of the plugin/theme
+msgid "https://transporters.io/"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "transporters.io"
+msgstr ""
+
+
+#. Plugin URI of the plugin/theme
+msgid "http://transporters.io/"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Transporters.io"
+msgstr ""
+
+#: includes/class-quoteform-widget.php:279
+msgid "Select Quote Form :"
+msgstr "Select Quote Form :"
+
+
+#: includes/class-quoteform-shortcode.php:261
+msgid "Please input URL Site."
+msgstr "Please input URL Site."
+
+
+
+#: includes/class-quoteform-setting.php:138
+msgid "Google Map API Key"
+msgstr "Google Map API Key"
+
+#: includes/class-quoteform-setting.php:133
+msgid "Get Google map API Key"
+msgstr "Get Google map API Key"
+
+
+#: includes/class-quoteform-setting.php:106
+msgid "Multiple company profiles is a Transporters Pro feature. If you want to assign this quote form to a profile enter its ID number in the box below."
+msgstr "Multiple company profiles is a Transporters Pro feature. If you want to assign this quote form to a profile enter its ID number in the box below."
+
+#: includes/class-quoteform-setting.php:102
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: includes/class-quoteform-setting.php:98
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: includes/class-quoteform-setting.php:94
+msgid "Custom JS (after back)"
+msgstr "Custom JS (after back)"
+
+#: includes/class-quoteform-setting.php:90
+msgid "Custom JS (after stage 2)"
+msgstr "Custom JS (after stage 2)"
+
+#: includes/class-quoteform-setting.php:86
+msgid "Custom JS (after stage 1)"
+msgstr "Custom JS (after stage 1)"
+
+
+#: includes/class-quoteform-setting.php:76
+msgid "Site URL"
+msgstr "Site URL"
+
+#: includes/class-quoteform-setting.php:71
+msgid "Short code"
+msgstr "Short code"
+
+#: includes/class-quoteform-setting.php:70
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/class-quoteform-setting.php:19
+msgid "For support please visit"
+msgstr "For support please visit"
+
+#: includes/class-quoteform-setting.php:18
+msgid "Simply enter your details on the quote form pages and then insert as either a widget or shortcode."
+msgstr "Simply enter your details on the quote form pages and then insert as either a widget or shortcode."
+
+#: includes/class-quoteform-setting.php:17
+msgid "This plugin allows you to style and place up to 3 Transporters quote forms on your website"
+msgstr "This plugin allows you to style and place up to 3 Transporters quote forms on your website"
+
+#: includes/class-quoteform-setting.php:16
+msgid "Welcome to the Transporters.io Wordpress Plugin"
+msgstr "Welcome to the Transporters.io Wordpress Plugin"
+
+#: includes/class-quoteform-setting.php:14
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/class-quoteform-setting.php:8
+#: includes/class-quoteform-setting.php:23
+msgid "Setting"
+msgstr "Setting"
+
+#: includes/class-quoteform-setting.php:7
+#: includes/class-quoteform-setting.php:22
+msgid "Quote Form 3"
+msgstr "Quote Form 3"
+
+#: includes/class-quoteform-setting.php:6
+#: includes/class-quoteform-setting.php:21
+msgid "Quote Form 2"
+msgstr "Quote Form 2"
+
+#: includes/class-quoteform-setting.php:5
+#: includes/class-quoteform-setting.php:20
+msgid "Quote Form 1"
+msgstr "Quote Form 1"
+
+#: includes/quoteform_scripts_front.php:107
+msgid "This field is required"
+msgstr "This field is required"
+
+#: includes/class-quoteform-common.php:116
+msgid "One way"
+msgstr "One way"
+
+#: includes/class-quoteform-common.php:116
+msgid "Return"
+msgstr "Return"
+
+#: includes/class-quoteform-common.php:116
+msgid "Charter"
+msgstr "Charter"
+
+#: includes/class-quoteform-common.php:56
+msgid "Loading available vehicles"
+msgstr "Mevcut araçlar yükleniyor"
+
+#: includes/class-quoteform-setting.php:702
+msgid "More Info On Google Maps"
+msgstr "Google Haritalarda Daha Fazla Bilgi"
+
+#: includes/class-quoteform-setting.php:704
+msgid "Check Maps Billing"
+msgstr "Haritalar Faturayı Kontrol"
+
+#: includes/class-quoteform-common.php:278
+#: includes/class-quoteform-common.php:432
+msgid "Charter Hours"
+msgstr "Sefer Saatleri"
+
+#: includes/class-quoteform-common.php:284
+#: includes/class-quoteform-common.php:434
+msgid "Select Charter Duration"
+msgstr "Sefer Süresi Seç"
+
+#: includes/class-quoteform-setting.php:482
+msgid "3 Step Multi Quote Form"
+msgstr "3 Adımda Teklif Formu"
+
+#: includes/class-quoteform-setting.php:475
+msgid "Standard 2 Step Form"
+msgstr "Standart 2 Adım Form"
+
+#: includes/class-quoteform-setting.php:471
+msgid "Display Mode"
+msgstr "Display Mode"
+
+#: includes/class-quoteform-setting.php:455
+msgid "Tabs"
+msgstr "Butonlar"
+
+#: includes/class-quoteform-setting.php:427
+msgid "Use Vehicle Groups not Vehicle Types"
+msgstr "Araç Gruplarını Kullan, Araç Tiplerini Değil"
+
+#: includes/class-quoteform-setting.php:436
+msgid "Show Notes"
+msgstr "Notları Göster"
+
+#: includes/class-quoteform-common.php:484
+msgid "Notes"
+msgstr "Notlar"
+
+#: includes/class-quoteform-setting.php:417
+msgid "Restrict start and destination locations by adding Fixed Locations or Fixed Routes inside your Transporters Settings"
+msgstr "Hareket ve Güzergâh noktalarını kısıtlamak için Fixed Lokasyonlar veya Fixed Routes Transporters Setting bölümüne ekleyebilirsiniz."
+
+#: includes/class-quoteform-setting.php:701
+msgid "Transporters.io relies on Google maps - you need to enter your free API key in the box below."
+msgstr "Transporters.io Google maps desteği almaktadır. Aşağıdaki kutucuktaki ücretsiz API anahtarını girebilirsiniz."
+
+#: includes/class-quoteform-setting.php:614
+msgid "Preview"
+msgstr "Önizleme"
+
+#: includes/class-quoteform-setting.php:418
+msgid "Fixed locations"
+msgstr "Düzenlenmiş Lokasyonlar"
+
+#: includes/class-quoteform-common.php:213
+#: includes/class-quoteform-common.php:227
+#: includes/class-quoteform-common.php:335
+#: includes/class-quoteform-common.php:356
+msgid "Select a location"
+msgstr "Lokasyon Seçiniz"
+
+#: includes/quoteform_scripts_front.php:924
+#: includes/quoteform_scripts_front.php:925
+#: includes/quoteform_scripts_front.php:926
+#: includes/quoteform_scripts_front.php:927
+#: includes/quoteform_scripts_front.php:1559
+#: includes/quoteform_scripts_front.php:1560
+#: includes/quoteform_scripts_front.php:1561
+#: includes/quoteform_scripts_front.php:1562
+#: includes/quoteform_scripts_front.php:1563
+#: includes/quoteform_scripts_front.php:1564
+#: includes/quoteform_scripts_front.php:1565
+#: includes/quoteform_scripts_front.php:1566
+msgid "This field is required."
+msgstr "Bu alan zorunlu"
+
+#: includes/quoteform_scripts_front.php:1939
+msgid "Please select other vehicle type"
+msgstr "Lütfen diger araç tipi seçiniz"
+
+#: includes/quoteform_scripts_front.php:1599
+msgid "Your return time is the same as outbound time. Please change your return time or unselect the return journey."
+msgstr "Dönüş tarihiniz gidiş tarihiniz ile aynı. Lütfen dönüş tarihinizi değiştiriniz veya dönüş seçeneğini iptal ediniz."
+
+#: includes/quoteform_scripts_front.php:1408
+msgid "Select journey type"
+msgstr "Yolculuk tipini seçiniz"
+
+#: includes/quoteform_scripts_front.php:465
+#: includes/quoteform_scripts_front.php:1391
+msgid "Select vehicle type"
+msgstr "Araç tipini seçiniz"
+
+#: includes/class-quoteform-common.php:450
+msgid "Vehicle Type"
+msgstr "Araç Tipi"
+
+#. Description of the plugin/theme
+msgid "Transporters quote form"
+msgstr "Yolcu teklif formu"
+
+#: includes/class-quoteform-widget.php:8 includes/class-quoteform-widget.php:9
+msgid "Transporters Quote Form"
+msgstr "Yolcu Teklif Formu"
+
+#: includes/class-quoteform-common.php:519
+msgid "Thank you for your request for a quote."
+msgstr "Yolculuk yapma teklifiniz için teşekkür ederiz."
+
+#: includes/class-quoteform-common.php:308
+#: includes/class-quoteform-common.php:503
+msgid "Get Quote"
+msgstr "Teklif Al"
+
+#: includes/class-quoteform-common.php:497
+msgid "Back"
+msgstr "Önceki"
+
+#: includes/class-quoteform-common.php:478
+msgid "Mobile number"
+msgstr "Mobil Telefon No:"
+
+#: includes/class-quoteform-common.php:474
+msgid "Contact email"
+msgstr "İletişim eposta"
+
+#: includes/class-quoteform-common.php:470
+msgid "Contact name"
+msgstr "İletişim adı"
+
+#: includes/class-quoteform-common.php:466
+msgid "Booking details"
+msgstr "Rezervasyon Detayı"
+
+#: includes/class-quoteform-common.php:300
+#: includes/class-quoteform-common.php:458
+msgid "Journey Type"
+msgstr "Yolculuk Tipi"
+
+#: includes/class-quoteform-common.php:259
+#: includes/class-quoteform-common.php:411
+msgid "Return date & time"
+msgstr "Dönüş tarih ve saat"
+
+#: includes/class-quoteform-common.php:403
+msgid "Return journey needed?"
+msgstr "Dönüş talebiniz var mı?"
+
+#: includes/class-quoteform-common.php:352
+msgid "Confirm destination"
+msgstr "Varış yeri onayı"
+
+#: includes/class-quoteform-common.php:331
+msgid "Confirm start location"
+msgstr "Hareket yeri onayı"
+
+#: includes/class-quoteform-common.php:240
+#: includes/class-quoteform-common.php:379
+msgid "Pickup date & time"
+msgstr "Yolcu alış tarih ve saati"
+
+#: includes/class-quoteform-common.php:224
+msgid "Destination"
+msgstr "Gidiş Noktası"
+
+#: includes/class-quoteform-common.php:217
+#: includes/class-quoteform-common.php:231
+msgid "Enter a location"
+msgstr "Lokasyon Giriniz"
+
+#: includes/class-quoteform-common.php:210
+msgid "Start location"
+msgstr "Başlangıç Lokasyonu"
+
+#: includes/class-quoteform-common.php:174
+msgid "Get a Quote"
+msgstr "Teklif Al"
+
+#: includes/class-quoteform-setting.php:716
+msgid "Update Setting"
+msgstr "Ayarları Güncelle"
+
+#: includes/class-quoteform-setting.php:487
+msgid "Update Quote Form"
+msgstr "Teklif Formunu Güncelle"
+
+#: includes/class-quoteform-setting.php:409
+msgid "Default to return journey"
+msgstr "Varsayılan dönüş yolculuğu"
+
+#: includes/class-quoteform-setting.php:396
+#: includes/class-quoteform-setting.php:711
+msgid "required"
+msgstr "zorunlu"

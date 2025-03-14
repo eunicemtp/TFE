@@ -1,0 +1,65 @@
+/*------------CSS-----------------*/
+.wpride-wrapper {
+	white-space: normal;
+}
+.ride-input-form{
+	padding:3%;	
+	display: block;
+	float: left;
+	width: 100%;
+}
+.ride-input-form div.txtbox{
+	width: 34.78%;
+	display: inline-block;
+	margin-right: 1.6%;
+}
+.ride-input-form div.txtbox:last-child {
+	margin-right: 0;
+	display: inline;
+}
+.ride-input-form .txtbox > input {
+    padding: 7px 10px;
+	font-size:14px;
+	color: #000;
+	line-height: 1.5;
+	width: 100%;
+}
+.ride-input-form .txtbox span { display:inline-block; width:100%; font-size:14px; color:#fff; font-weight:600;}
+.ride-input-form .button {
+	width: 24%;
+    padding: 9px 0;
+	border:0px;
+	font-weight:600;
+	line-height: 1.5;
+	font-size: 14px;
+	margin-top: 20px;
+}
+.wpride-wrapper tr td { padding:0px; }
+.wpride-wrapper tr { width:100%; display: table; }
+.ride_cal { background: #6d7b8d; }
+.ride_cal td {
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 15px 10px !important;
+    text-align: center;
+    display: table-cell;
+	width:33.33%;
+}
+.ride_cal td span { display: inline-block; }
+.ride_cal.ride_col-dis { display:table !important;}
+#paypal_form input {
+    float: right;
+}
+.map_area { height:300px;}
+#paypal_form { padding:10px;}
+
+@media only screen and (min-width: 200px) and (max-width: 600px) {
+	.ride-input-form div.txtbox {  width: 100%; margin-right: 0; margin-bottom: 12px; }
+	.ride-input-form .button { width: 100%; margin-top: 5px;}
+	@media only screen and (max-width: 480px) { 
+		.ride_cal td { width: 100%; display: table; }
+		#paypal_form input { float: none; }
+		#paypal_form { text-align: center; }
+	}
+}

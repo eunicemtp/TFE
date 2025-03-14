@@ -1,0 +1,12 @@
+# Fichiers sensibles
+.env
+wp-config.php
+.htaccess
+
+# Cache et logs
+*.log
+cache/
+uploads/
+
+# Fichiers système
+.DS_Store
